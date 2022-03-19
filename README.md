@@ -25,12 +25,14 @@ Hi, I'm [Shivam Patel](https://linkedin.com/in/skp5546), a Software developer wh
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
 
 <p align="center">
-  <a href="www.linkedin.com/in/skp5546" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="skp5546" />
-    <img src="https://img.shields.io/github/followers/urmamafat?style=social" alt="skp5546" />
-    
+  <a href="https://linkedin.com/in/skp5546" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="pxp928" />
+  </a>
+  <a href="https://twitter.com/shivampatel1101" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="pxp928" />
   </a>
 </p>
+
 
 
 
