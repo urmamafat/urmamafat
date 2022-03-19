@@ -1,4 +1,7 @@
-- 👋  Hi, I’m @urmamafat
+## Hi there, I'm Shivam Patel 👋 
+
+Hi, I'm [Shivam Patel](https://linkedin.com/in/skp5546), a Software Engineer graduted from Penn State 
+
 - 👀  I’m interested in algorithms, devops, programming and general automation
 - 🌱  I’m currently learnign DevOps 
 - 💞️  I’m looking to collaborate on Open Source projects
@@ -8,6 +11,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="skp5546" />
   </a>
 </p>
+![](https://komarev.com/ghpvc/?username=urmamafat&color=green&&style=for-the-badge)
 
 ### 📈 &nbsp;Analytics
 
