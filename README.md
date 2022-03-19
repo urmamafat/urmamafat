@@ -20,4 +20,4 @@
   </a>
 </p>
 
-### :zap: Recent Activity
+
