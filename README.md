@@ -1,4 +1,4 @@
-## Hey Folks! 👋 ![](https://komarev.com/ghpvc/?username=urmamafat&color=yellow&&style=for-the-badge)
+## Hey Folks! 👋 ![](https://komarev.com/ghpvc/?username=urmamafat&color=green&&style=plastic)
 <p align="middle"><i>❝“Learn as if you were to live forever. Live as if you were to die tomorrow”— Mahatma Gandhi   ❞</i></p>
 
 Hi, I'm [Shivam Patel](https://linkedin.com/in/skp5546), a Software developer who is passonate about technology and innovation. 
