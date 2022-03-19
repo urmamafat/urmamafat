@@ -1,4 +1,4 @@
-## Hey Folks! 👋 ![](https://komarev.com/ghpvc/?username=urmamafat&color=green&&style=plastic)
+## Hey Folks! 👋 
 <p align="middle"><i>❝“Learn as if you were to live forever. Live as if you were to die tomorrow”— Mahatma Gandhi   ❞</i></p>
 
 Hi, I'm [Shivam Patel](https://linkedin.com/in/skp5546), a Software developer who is passonate about technology and innovation. 
@@ -22,6 +22,7 @@ Hi, I'm [Shivam Patel](https://linkedin.com/in/skp5546), a Software developer wh
   </a>
 </p>
 
+
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
 
 <p align="center">
@@ -33,6 +34,8 @@ Hi, I'm [Shivam Patel](https://linkedin.com/in/skp5546), a Software developer wh
   </a>
 </p>
 
+
+![](https://komarev.com/ghpvc/?username=urmamafat&color=green&&style=plastic)
 
 
 
