@@ -23,7 +23,7 @@ Hi, I'm [Shivam Patel](https://linkedin.com/in/skp5546), a Software developer wh
 </p>
 
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
+
 
 <p align="center">
   <a href="https://linkedin.com/in/skp5546" target="blank">
